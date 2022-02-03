@@ -1,6 +1,5 @@
 let t1 = gsap.timeline()
 
-console.log("new")
 
 t1.from(".card" ,
  {
